@@ -1,6 +1,6 @@
 # prettifyGeany
 
-Javascript [https://github.com/prettier/prettier](prettier.js)  plugin for Geany.
+Javascript [https://github.com/prettier/prettier] plugin for Geany.
 
 Code formatter for javascript - TypeScript · Flow · JSX · JSON - CSS · SCSS · Less - HTML · Vue · Angular - GraphQL · Markdown · YAML
 
